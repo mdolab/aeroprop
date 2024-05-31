@@ -13,6 +13,7 @@ For aerodynamics, we use ADflow (RANS-based solver) with an efficient discrete a
 We use pyCycle to model the propulsion system.
 We provide the required scripts and source files to perform a single-point optimization with both AZ and BC models.
 
+![Podded propulsor](./images/aeroprop_model_cfd.jpg)
 
 ## Prerequisites
 
