@@ -140,8 +140,10 @@ mpirun -np 4 python aeroprop_run.py --task opt --level L2 --model az --thrust 60
 
 Copyright 2024 MDO Lab
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+The files associated with this dataset are licensed under a Creative Commons Attribution 4.0 International licence at
 
-http://www.apache.org/licenses/LICENSE-2.0
+https://creativecommons.org/licenses/by/4.0/
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+## what does this mean?
+
+You can share, copy and modify this dataset so long as you give appropriate credit, provide a link to the CC BY license, and indicate if changes were made, but you may not do so in a way that suggests the rights holder has endorsed you or your use of the dataset. Note that further permission may be required for any content within the dataset that is identified as belonging to a third party.
