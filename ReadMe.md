@@ -39,7 +39,7 @@ The mesh and reuqired input files are stored in University of Michigan's AFS sys
 Clone the source repo first:
 
 ```shell
-git clone https://github.com/anilyil/aeroprop.git
+git clone https://github.com/mdolab/aeroprop.git
 cd aeroprop/run
 ```
 Download the input files from the Umich AFS system (if the shell file is not executable, run this command: ``chmod +x get-input-files.sh``) :
