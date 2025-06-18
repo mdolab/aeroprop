@@ -59,15 +59,13 @@ mpirun -np 4 python aeroprop_run.py --task opt --level L2 --model az --thrust 60
  **Please cite our work if you are using these models and sources:** 
 
 ```
-@article{AbdulKaiyoom2024,
+@article{Abdul-Kaiyoom2025,
     author = {Mohamed Arshath Saja Abdul-Kaiyoom and Andrew H. R. Lamkin and Anil Yildirim and Justin S. Gray and Charles A. Mader and Joaquim R. R. A. Martins},
-    title = {Coupled Aeropropulsive Design Optimization of a Podded Electric Propulsor (In Review)}
+    title = {Coupled Aeropropulsive Design Optimization of a Podded Electric Propulsor}
     journal = {Structural and Multidisciplinary Optimization},
     keywords = {atuator zone, boundary conditions, coupled aeropropulsion, podded propulsor},
-    year = {2024},
-    doi = {},
-    issn = {},
-    pages = {}
+    year = {2025},
+    doi = {10.1007/s00158-024-03904-w}
 }
 ```
 
